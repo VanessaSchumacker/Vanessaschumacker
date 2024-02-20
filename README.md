@@ -1,29 +1,24 @@
 ### Olá pessoal! :raised_hand_with_fingers_splayed:
 
-Desenvolvedor Full Stack em Formação 💻
 Olá, visitante! 👋 Sou Vanessa Schumacker, uma entusiasta da tecnologia em busca de aprimorar minhas habilidades como desenvolvedora Full Stack. Recentemente, concluí um curso intensivo de 5 meses, totalizando 510 horas de imersão em Back-end, lógica de programação e soft skills.
 
 O que você encontrará aqui:
+
 🚀 Tecnologias e Habilidades
 ### Desenvolvimento Back-end: 
 Experiência sólida com Javascript e Node.js, além do domínio de pacotes npm.
-
 ### APIs Rest: 
 Desenvolvimento e implementação eficaz de APIs Rest para criar aplicações robustas e escaláveis.
-
 ### Banco de Dados: 
 Projeção e gestão de bancos de dados utilizando PostgreSQL e SQL.
-
 ### Controle de Versão: 
 Proficiente no uso do Git Hub para o gerenciamento eficaz do código fonte.
-
 ### Metodologias Ágeis: 
 Aplicação prática de metodologias ágeis para garantir entregas eficientes e colaboração em equipe.
-
 ### Soft Skills: 
 Desenvolvimento de habilidades interpessoais essenciais para uma integração harmoniosa em ambientes de trabalho.
 
-💡 Projetos Destacados
+### 💡 Projetos Destacados
 Nome do Projeto 1: Breve descrição do projeto e tecnologias utilizadas.
 Nome do Projeto 2: Breve descrição do projeto e tecnologias utilizadas.
 
