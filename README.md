@@ -5,12 +5,17 @@ Olá, visitante! 👋 Sou Vanessa Schumacker, uma entusiasta da tecnologia em bu
 
 O que você encontrará aqui:
 🚀 Tecnologias e Habilidades
-Desenvolvimento Back-end: Experiência sólida com Javascript e Node.js, além do domínio de pacotes npm.
-APIs Rest: Desenvolvimento e implementação eficaz de APIs Rest para criar aplicações robustas e escaláveis.
-Banco de Dados: Projeção e gestão de bancos de dados utilizando PostgreSQL e SQL.
-Controle de Versão: Proficiente no uso do Git Hub para o gerenciamento eficaz do código fonte.
-Metodologias Ágeis: Aplicação prática de metodologias ágeis para garantir entregas eficientes e colaboração em equipe.
-Soft Skills: Desenvolvimento de habilidades interpessoais essenciais para uma integração harmoniosa em ambientes de trabalho.
+### Desenvolvimento Back-end: Experiência sólida com Javascript e Node.js, além do domínio de pacotes npm.
+
+### APIs Rest: Desenvolvimento e implementação eficaz de APIs Rest para criar aplicações robustas e escaláveis.
+
+### Banco de Dados: Projeção e gestão de bancos de dados utilizando PostgreSQL e SQL.
+
+### Controle de Versão: Proficiente no uso do Git Hub para o gerenciamento eficaz do código fonte.
+
+### Metodologias Ágeis: Aplicação prática de metodologias ágeis para garantir entregas eficientes e colaboração em equipe.
+
+### Soft Skills: Desenvolvimento de habilidades interpessoais essenciais para uma integração harmoniosa em ambientes de trabalho.
 
 💡 Projetos Destacados
 Nome do Projeto 1: Breve descrição do projeto e tecnologias utilizadas.
