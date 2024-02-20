@@ -19,8 +19,8 @@ Aplicação prática de metodologias ágeis para garantir entregas eficientes e 
 Desenvolvimento de habilidades interpessoais essenciais para uma integração harmoniosa em ambientes de trabalho.
 
 ### 💡 Projetos Destacados
-Nome do Projeto 1: Breve descrição do projeto e tecnologias utilizadas.
-Nome do Projeto 2: Breve descrição do projeto e tecnologias utilizadas.
+### BancoDigital-API:
+Consiste em uma APIrest de um Banco DIgital, que permite o usuário realizar todas as transações em uma conta bancária.
 
 
 ### 📬 Vamos Conectar!
